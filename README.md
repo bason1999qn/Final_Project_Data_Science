@@ -1,5 +1,7 @@
 ## STT: 45
 > Thái Bá Sơn - 1712732 (bason1999qn | Thai Ba Son)
+
+
 > Huỳnh Công Sinh - 1712724 (grant-ward-101 | Grant Ward)
 
 # Stock Market Analysis
